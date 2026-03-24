@@ -23,8 +23,25 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KushagraSri87&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KushagraSri87&theme=tokyonight" />
+# 👋 Hi, I'm Ishan
+
+## 🚀 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Ishan0011&show_icons=true&theme=radical)
+
+## 🔥 Streak
+![Streak](https://streak-stats.demolab.com?user=Ishan0011&theme=radical)
+
+## 🧠 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan0011&layout=compact&theme=radical)
+
+## 📈 Activity Graph
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishan0011&theme=react-dark)
+
+## 🏆 Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ishan0011&theme=radical)
+
+## 👀 Visitors
+![Views](https://komarev.com/ghpvc/?username=Ishan0011&color=blue)
 </p>
 
 ---
