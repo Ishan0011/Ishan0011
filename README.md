@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kushagra</h1>
+<h1 align="center">Hi 👋, I'm Ishan</h1>
 <h3 align="center">🚀 Developer | DSA Enthusiast | MERN Stack Learner</h3>
 
 ---
@@ -41,7 +41,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/KushagraSri87=&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/Ishan0011=&theme=onedark" />
 </p>
 
 ---
@@ -57,8 +57,8 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/kushagra-srivastava-472a5a222?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a> •
-  <a href="mailto:kushagracs4@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/ishan-thapa-9770ba29a?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a> •
+  <a href="mailto:tishan308@gmail.com">Email</a>
 </p>
 
 ---
