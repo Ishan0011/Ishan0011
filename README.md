@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ishan Thapa</h1>
+<h1 align="center">Hi 👋, I'm Ishan </h1>
 <h3 align="center">🚀 Developer | DSA Enthusiast | MERN Stack Learner</h3>
 
 <p align="center">
