@@ -41,12 +41,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishan0011&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Ishan0011&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br><br>
   <img src="https://streak-stats.demolab.com?user=Ishan0011&theme=radical" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishan0011&theme=react-dark" alt="Activity Graph" />
 </p>
+
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ishan0011&theme=radical" alt="GitHub Trophies" />
