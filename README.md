@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ishan</h1>
+<h1 align="center">Hi 👋, I'm Ishan Thapa</h1>
 <h3 align="center">🚀 Developer | DSA Enthusiast | MERN Stack Learner</h3>
 
 <p align="center">
@@ -14,17 +14,17 @@
 
 ## 🚀 About Me
 
-* 💻 Passionate about **Web Development & Problem Solving**
-* 🧠 Strong focus on **Data Structures & Algorithms using C++**
-* 🔨 Building **real-world MERN stack projects**
-* 📈 Consistently improving every day
+* 💻 Passionate about **Web Development & Software Engineering**
+* 🧠 Focus on **Data Structures & Algorithms using C++**
+* 🔨 Building **real-world web applications and projects**
+* 📈 Consistently learning and sharpening problem-solving skills
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,mongodb,express,python,git,github" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,mongodb,express,python,html,css,bootstrap,git,github,vscode" alt="Tech Stack" />
 </p>
 
 ---
@@ -32,9 +32,9 @@
 ## 🧠 Currently Learning
 
 * 🔹 Data Structures & Algorithms (C++)
-* 🔹 Backend Development & Database Architecture
-* 🔹 System Design Fundamentals
-* 🔹 AI-assisted Developer Tools
+* 🔹 MERN Stack Development
+* 🔹 System Design Basics
+* 🔹 AI Developer Tools & Workflows
 
 ---
 
@@ -48,7 +48,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishan0011&theme=react-dark" alt="Activity Graph" />
 </p>
 
-## 🏆 GitHub Trophies
+---
+
+## 🏆 Achievements & Badges
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ishan0011&theme=radical" alt="GitHub Trophies" />
@@ -58,9 +60,9 @@
 
 ## 📌 Goals
 
-* 🚀 Become a well-rounded Software Engineer
-* 💼 Secure a top tech software role
-* 🔥 Build impactful, production-ready web applications
+* 🚀 Become a proficient full-stack software engineer
+* 💼 Build production-grade, impactful web applications
+* 🔥 Maintain continuous coding consistency
 
 ---
 
